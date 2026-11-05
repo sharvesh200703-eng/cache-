@@ -1,0 +1,10 @@
+# Compiled programs
+lru_cache
+lru_cache.exe
+*.o
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
